@@ -63,6 +63,8 @@ body{
     color: whitesmoke;
     font-weight: bold;
     font-family: Georgia;
+    width: 80%;
+    height: auto;
 }
 
 a:link { 
